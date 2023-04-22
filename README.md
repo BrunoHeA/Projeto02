@@ -7,7 +7,12 @@
 
  Como ficou:
 
- ![Imagem exemplo do projeto no desktop](https://prnt.sc/or1YkxSAWsae)
+ ![Imagem exemplo do projeto no desktop feito por mim](https://github.com/BrunoHeA/Projeto02/blob/main/design/desktop-design-by-me.png?raw=true)
 
 
-
+ ---
+ <br>
+ 
+ Meu objetivo (MOBILE):    |  Como ficou:
+:-------------------------:|:-------------------------:
+ ![Imagem exemplo do projeto no mobile](https://github.com/BrunoHeA/Projeto02/blob/main/design/mobile-design.jpg?raw=true)  |  Ainda estou trabalhando nesta versão!
